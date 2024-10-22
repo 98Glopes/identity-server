@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityServer", "IdentityServer\IdentityServer.csproj", "{F25B7166-9EF0-4025-A9B0-205E0CB218C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leite.Api", "Leite.Api\Leite.Api.csproj", "{6EA3CA24-3C6B-4327-9543-38529644ABBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leite.Introspection.Api", "Leite.Introspection.Api\Leite.Introspection.Api.csproj", "{2B0ECCE1-DD81-49C7-AAD3-1C6402C3D216}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F25B7166-9EF0-4025-A9B0-205E0CB218C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F25B7166-9EF0-4025-A9B0-205E0CB218C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F25B7166-9EF0-4025-A9B0-205E0CB218C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F25B7166-9EF0-4025-A9B0-205E0CB218C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EA3CA24-3C6B-4327-9543-38529644ABBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EA3CA24-3C6B-4327-9543-38529644ABBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EA3CA24-3C6B-4327-9543-38529644ABBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EA3CA24-3C6B-4327-9543-38529644ABBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B0ECCE1-DD81-49C7-AAD3-1C6402C3D216}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B0ECCE1-DD81-49C7-AAD3-1C6402C3D216}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B0ECCE1-DD81-49C7-AAD3-1C6402C3D216}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B0ECCE1-DD81-49C7-AAD3-1C6402C3D216}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
